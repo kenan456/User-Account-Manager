@@ -78,7 +78,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1>Password Manager</h1>
+        <h1>User Account Manager</h1>
         
         <div className="addInfoAndDisplayInfo">
           <div className="addAcc">
