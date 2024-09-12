@@ -17,5 +17,5 @@
 
 ## Quick Start
 
-The User Account Manager can be accessed through this link: :
+The User Account Manager can be accessed through this link: https://kenan456.github.io/User-Account-Manager/
 
